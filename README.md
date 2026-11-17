@@ -146,42 +146,6 @@ Confidence: 96.8%
 - Climate research
 - Remote sensing applications
 
----
 
-## 🔮 Future Improvements
-
-- Improve model accuracy
-- Add more land cover classes
-- Deploy as a web application
-- Support real-time satellite image classification
-- Integrate GIS visualization
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Push to your branch
-5. Open a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-**Youssef Mohammed**
-
-Computer Engineering Student | AI Enthusiast | Deep Learning & Remote Sensing
-
----
 
 ⭐ If you found this project useful, don't forget to **star the repository!**
